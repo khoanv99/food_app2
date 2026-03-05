@@ -27,7 +27,7 @@ class _OnboardingState extends State<Onboarding> {
           children: [
             Image.asset("images/1.jpg",
              // height: screenHeight * 0.8, // px -> xx.o kiểu double
-              width: screenWidth * 0.8,
+              width: screenWidth * 0.6,
             ),
             SizedBox(height: 5),
             Text('Food Ordering App',
